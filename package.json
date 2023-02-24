@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-data-table-component": "^7.5.3",
+    "styled-components": "^5.3.6"
+  }
+}

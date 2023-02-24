@@ -2,14 +2,15 @@
 
 ### Setup backend
 * Install python
-* Navigate into `treez_assignment` folder
+* Navigate into `treeze/treez_assignment` folder
 * Create a virtual environment to install the requirements
 ```
 Windows
 -------
 > python -m pip install virtualenv
-> virtualenv venv
-> pip install requirements.txt
+> python -m virtualenv venv
+> venv\Scripts\activate
+> pip install -r requirements.txt
 ```
 * Once the requirements are installed, we need to seed the database with initial data. This will create the required tables and seed the data.
 ```

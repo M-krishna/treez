@@ -1,6 +1,8 @@
 asgiref==3.6.0
 backports.zoneinfo==0.2.1;python_version<"3.9"
 Django==4.1.7
+django-cors-headers==3.13.0
+django-filter==22.1
 djangorestframework==3.14.0
 factory-boy==3.2.1
 Faker==17.0.0

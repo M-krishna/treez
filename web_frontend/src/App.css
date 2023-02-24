@@ -1,0 +1,15 @@
+body{
+  margin: 40px 80px
+}
+
+.multi-select{
+  width: 300px;
+}
+
+.dropdown-heading{
+  z-index: 10;
+}
+
+.sc-dmctIk{
+  z-index: 0
+}
